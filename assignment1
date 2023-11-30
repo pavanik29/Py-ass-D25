@@ -1,0 +1,6 @@
+s=input()
+v='aeiouAEIOU'
+for i in s:
+    if i in v:
+        print(i,end='')
+print(count(i)
